@@ -27,7 +27,7 @@ public class RedApple extends Apple{ //sub class of Apple
 	
 	public void setWeight(double w) 
 	 {
-		 System.out.println(weight);
+		 System.out.println(w);
 	 }
 	
 	public int getQuantity() {
